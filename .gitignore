@@ -1,0 +1,19 @@
+# text editor
+*.swo
+*.swp
+
+# R
+*.log
+*.RData
+
+# raw
+raw
+
+# intermediate data
+*.tab
+*.csv
+*.fastq
+*.fasta
+
+# images
+pics
